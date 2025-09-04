@@ -1,0 +1,16 @@
+{
+  "name": "vam-portfolio-site",
+  "version": "1.0.0",
+  "description": "A portfolio site showcasing graphic design work.",
+  "main": "public/index.html",
+  "scripts": {
+    "start": "live-server public",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'Test step not defined'"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
